@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Manitoba Assessment Online | Province of Manitoba</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta content="text/html; charset=UTF-8" />
+	<meta name="keywords" content=""/>
+	<meta name="description" content=""/>
+	<!-- DC START: Developer, fill these in dynamically. If not possible remove the section -->
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" /> 
+	<meta name="dcterms.title" content="Enter a name to the resource" />
+	<meta name="dcterms.creator" content="Enter the entity primarily responsible for making the resource" />
+	<meta name="dcterms.created" content="2012-11-29" />
+	<meta name="dcterms.modified" content="2012-11-29" />
+	<meta name="dcterms.language" content="en" />
+	<meta name="dcterms.subject" content="Use the most appropriate word/s from the Dublin Core vocabulary list" />
+    <!-- DC END -->
+    <!-- OG START: Developer, fill these in dynamically. If not possible remove the section -->
+	<meta content="Province of Manitoba | Municipal Relations " />
+	<meta content="https://www.gov.mb.ca/departmentname/" />
+	<meta content="Province of Manitoba" />
+	<link rel="canonical" href="https://www.gov.mb.ca/departmentname/pagename.html" />
+	<!-- OG END -->
+	<meta content="article" />
+	<meta content="en_CA" />
+	<meta content="/templates/en/common/images/mb-logo.png" />
+	<meta http-equiv="cache-control" content="no-cache"/>
+	<meta http-equiv="pragma" content="no-cache"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="shortcut icon" href="https://www.gov.mb.ca/asset_library/manitoba.ico" />
+	<link href="https://www.gov.mb.ca/templates/en/common/css/main.css" id="mainstyles" rel="stylesheet" type="text/css" />
+	<link href="https://www.gov.mb.ca/templates/en/common/css/department.css" id="departmentstyles" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="https://www.gov.mb.ca/templates/en/common/js/jquery.min.js"></script>
+	<script type="text/javascript" src="https://www.gov.mb.ca/templates/en/common/js/jquery.dropotron.min.js"></script>
+	<script type="text/javascript" src="https://www.gov.mb.ca/templates/en/common/js/animatedcollapse.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://www.gov.mb.ca/templates/en/common/js/slicknav/slicknav.min.css" />
+	<script type="text/javascript" src="https://www.gov.mb.ca/templates/en/common/js/slicknav/jquery.slicknav.min.js"></script>
+	<script type="text/javascript" src="https://www.gov.mb.ca/templates/en/common/js/sidemenu3.js"></script> 
+    <style type="text/css" title="calendar CSS">
+    @import url(/MAO/Shared/css/override.css);
+    </style>
+    		<style type="text/css" title="calendar CSS">
+        @import url(/MAO/Shared/css/calendar.css);
+        </style>	  		
+</head>
+<body class="template-en-three-column page-knom">
+	<div class="access-links">
+		<a rel="header navigation" accesskey="1" href="#navigation">Header</a>
+		<a rel="side bar navigation" accesskey="2" href="#sidemenu">Side Menu</a>
+		<a rel="main body navigation" accesskey="3" href="#content">Content</a>
+		<a rel="footer navigation" accesskey="4" href="#footernav">Footer</a>
+		<a rel="search" accesskey="0" href="#search">Search</a>
+	</div>
+
+	<div class="header">
+		<div class="wrapper">
+			<div class="top-links">
+               
+               <a href="runtime_error.aspx?lang=FR">Fran&ccedil;ais</a>
+               <a href="https://www.gov.mb.ca/contact/" target="_blank">Contact Government</a>
+               
+			</div>
+		</div>  
+
+		<div class="wrapper">            
+			<div class="logo">
+			    <a href="https://www.gov.mb.ca/index.html" target="_blank" title ="Logo for Government of Manitoba"><img src="https://www.gov.mb.ca/templates/en/common/images/mb-logo.png" alt="Government of Manitoba"/></a>  
+            </div>
+
+            <div class="search">
+				<!-- Developer:  You can remove this search box if it's not needed -->
+				<!-- START search box -->
+
+                <div class="form-field input-button"><a name="search"></a>
+					<form method="get" action="https://www.manitoba.ca/search">
+						<label style='display:none' for='bsc-head-searchfield'>Keywords</label>
+                        <input id="bsc-head-searchfield" class="text-input" name="q" type="search" value="" maxlength="400" placeholder="Search for programs and online services" />     
+                        <input id="bsc - head - searchsubmit" class="btn" type="submit" value="Search" data-icon="search" />
+
+
+
+						<input type="hidden" name="entqr" value="0"/>
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="sort" value="date:D:L:d1"/>
+						<input type="hidden" name="ud" value="1"/>
+						<input type="hidden" name="oe" value="iso-8859-1" id="gov_search_form_oe"/>
+						<input type="hidden" name="filter" value="0"/>
+						<input type="hidden" name="ie" value="iso-8859-1" id="gov_search_form_ie"/>
+						<input type="hidden" name="client" id="gov_search_form_client" value="manitoba"/>
+						<input type="hidden" name="proxystylesheet" id="gov_search_form_css" value="manitoba"/>
+						<input type="hidden" name="site" id="gov_search_form_site" value="default_collection"/>
+					</form>
+				</div>
+
+				<!-- END search box -->
+			</div>    
+		</div>
+	</div>
+
+    <div class="navigation">
+        <a name="navigation"></a>
+        <table class="overridebreadcrumb" border="0" cellspacing="0" cellpadding="0">
+          <tr valign="middle"> 
+            <td><a href="https://www.gov.mb.ca/index.html" target="_blank">Manitoba.ca</a> &gt; <a href="https://www.gov.mb.ca/mr/index.html" target="_blank">Municipal Relations</a></td>
+            <td align="right">&nbsp;<br>&nbsp;</td>
+          </tr>
+        </table> 
+    </div>
+
+    <div class="container">
+		<div class="wrapper">
+			<div class="content">
+                <br />
+                <h1></h1>
+				<hr />
+				<div class="columns col-3">
+					<div class="col-1-1" role="main">
+						<div class="col-inside-3" id="main-content">
+							<a name="top"></a><a name="Top"></a><a name="content"></a>
+							<!-- Developer:  This is the main content area -->
+							<!-- START Main Content -->
+                            
+   <form name="aspnetForm" method="post" action="runtime_error.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CB23F0EE" />
+ 	  
+      
+      <br />
+      <span id="ctl00_PublicContent_lblContent"><p>We are unable to process your request at this time, please contact the Help Desk at 204-945-0119 or 1-866-801-2888 or email <a href=mailto:assessment@gov.mb.ca>assessment@gov.mb.ca</a>.</p></span>
+      <p>&nbsp;</p>
+   </form>
+
+							<!-- END Main Content -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer">
+		<div class="wrapper">
+			<div class="footer-left">
+				<nav class="footer-nav">
+					<a name="footernav"></a>
+                    <ul><li><a href="https://www.gov.mb.ca/accessibility/index.html" target="_blank" title="Accessibility - Government of Manitoba">Accessibility</a></li><li><a href="https://www.gov.mb.ca/legal/disclaimer.html" target="_blank" title="Disclaimer - Government of Manitoba">Disclaimer</a></li><li><a href="https://www.gov.mb.ca/legal/copyright.html" target="_blank" title="Copyright - Government of Manitoba">Copyright</a></li><li><a href="https://www.gov.mb.ca/legal/privacy.html" target="_blank" title="Privacy - Government of Manitoba">Privacy</a></li></ul>     
+				</nav>
+				<nav class="footer-nav">
+					<a name="footernav"></a>
+                    <ul><li><a href="https://twitter.com/mbgov" target="_blank" title="Twitter - Government of Manitoba">Twitter</a></li><li><a href="https://www.facebook.com/manitobagovernment" target="_blank" title="Facebook - Government of Manitoba">Facebook</a></li><li><a href="https://www.youtube.com/user/ManitobaGovernment" target="_blank" title="YouTube - Government of Manitoba">YouTube</a></li><li><a href="https://www.flickr.com/photos/mbgov/" target="_blank" title="Flickr - Government of Manitoba">Flickr</a></li></ul>     
+				</nav>
+			</div>
+			<div class="footer-right">
+                <a href="https://www.gov.mb.ca/" target="_blank" title="Government of Manitoba"><img src="https://www.gov.mb.ca/templates/en/common/images/logo-government-of-manitoba.jpg" alt="Government of Manitoba" title="Government of Manitoba" /></a>  
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+    
